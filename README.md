@@ -1,7 +1,7 @@
 # Unix-Bash-Shell-Scripts-Projects
 # 42Heilbronn Coding School Bash Scripts
 
-Welcome to my GitHub repository! This repository contains a collection of Bash scripts that I wrote as part of my projects during my time at 42Heilbronn Coding School.
+Welcome to my GitHub repository! This repository contains a collection of Bash scripts that I wrote as part of my projects during my time at 42Heilbronn Coding School. Most of the actual scripts (sh files) are located within the `Shell01` directory. Feel free to explore this directory to see the scripts in action.
 
 ## About 42Heilbronn Coding School
 
@@ -22,6 +22,10 @@ The Bash scripts in this repository are the practical implementations of tasks a
 
 The PDF files in this repository contain the questions or tasks that inspired the creation of the Bash scripts. You can refer to these PDF files to gain a better understanding of the context and requirements of each script.
 
+## PDF Instructions
+
+The included PDF files start with detailed instructions on their use. To see the questions and main content, please scroll past the initial instruction pages. The questions are an integral part of the documentation and will provide additional context and use-cases for the scripts contained in this repository.
+
 ## How to Use
 
 You are welcome to explore, use, or learn from the Bash scripts in this repository. If you encounter any issues or have questions about any of the scripts, please feel free to open an issue or contact me.
@@ -31,3 +35,4 @@ You are welcome to explore, use, or learn from the Bash scripts in this reposito
 If you have any questions, feedback, or would like to get in touch with me, you can reach me via email at michaelhilly99@gmail.com
 
 Happy coding!
+
