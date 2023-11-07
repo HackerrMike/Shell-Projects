@@ -24,7 +24,7 @@ The PDF files in this repository contain the questions or tasks that inspired th
 
 ## PDF Instructions
 
-The included PDF files start with detailed instructions on their use. To see the questions and main content, please scroll past the initial instruction pages. The questions are an integral part of the documentation and will provide additional context and use-cases for the scripts contained in this repository.
+The included PDF files start with detailed instructions on their use. To see the questions and main content, please scroll past the initial instruction pages (click "More pages" if you need to). The questions are an integral part of the documentation and will provide additional context and use-cases for the scripts contained in this repository.
 
 ## How to Use
 
