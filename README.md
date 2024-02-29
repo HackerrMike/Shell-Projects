@@ -32,7 +32,7 @@ You are welcome to explore, use, or learn from the Bash scripts in this reposito
 
 ## Contact
 
-If you have any questions, feedback, or would like to get in touch with me, you can reach me via email at michaelhilly99@gmail.com
+If you have any questions, feedback, or would like to get in touch with me, you can reach me via email at michael.ugwu@hotmail.com
 
 Happy coding!
 
